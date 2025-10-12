@@ -25,7 +25,10 @@ https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-c
 Project Quickstart: Create a Windows virtual machine in the Azure portal
 https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
 
+-------
 ***ADVANCED VIRTUAL MACHINE PROJECT - CYBERSECURITY***
+https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access
+-------
 
 Project Quickstart -Deploying a Docker container
 https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal?WT.mc_id=portaledu_inproduct_popularsolutions
