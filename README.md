@@ -4,6 +4,7 @@
 
 Introduction to Microsoft Azure: Describe cloud concepts
 - ***START HERE***
+  
 https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=aqc_azfun1_inproduct_azureportal
 
 Introduction to Microsoft Azure: Describe Azure architecture and services
