@@ -1,7 +1,6 @@
-# Tutorials
+# Tutorials, Projects and Guides
 
 
-## Simple documentation and projects for Microsoft Azure
 
 Introduction to Microsoft Azure: Describe cloud concepts
 ***START HERE***
