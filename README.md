@@ -19,6 +19,8 @@ Microsoft Azure Cloud Concepts
 https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
 
 ----------
+Project Quickstart: Create an Azure resource 
+https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/7-exercise-create-azure-resource?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services
 
 Project Quickstart: Create a Windows virtual machine in the Azure portal
 https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
