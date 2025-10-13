@@ -1,6 +1,6 @@
 # Tutorials, Projects and Guides
 
-
+last update 10/13/2026
 
 Introduction to Microsoft Azure: Describe cloud concepts
 - ***START HERE***
