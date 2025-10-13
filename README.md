@@ -11,9 +11,46 @@ Introduction to Microsoft Azure: Describe Azure architecture and services
 https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
 
 ------------
+There are 3 exercises/projects based on the recommended path below for Azure Networking. try to complete them all!!
 
 Azure networking documentation
 https://learn.microsoft.com/en-us/azure/networking/
+
+The 3 links you need to click/learn from this networking documentation above are.....
+
+
+Recommended Azure Networking Learning Path
+
+Step 1 – Networking Foundation (Core Concepts)
+
+➡️ Goal: Understand how Azure connects resources internally and to the internet.
+ 📘 Learn in this order:
+ 
+1.	Azure Virtual Network (VNet) – the core building block.
+2.	Azure Private Link / Private Endpoint – secure service access without public IP.
+3.	Azure DNS – how name resolution works in Azure.
+💡 Outcome: You’ll understand address spaces, subnets, peering, and private connectivity.
+
+Step 2 – Load Balancing & Application Delivery
+➡️ Goal: Learn how Azure distributes traffic and manages high availability.
+
+ 📘 Topics:
+•	Azure Load Balancer (Layer 4)
+•	Azure Application Gateway (Layer 7)
+•	Azure Front Door (global CDN + WAF)
+💡 Outcome: You’ll know when to use each and how they fit into resilient, global designs.
+
+Step 3 – Hybrid Connectivity
+➡️ Goal: Learn how to connect on-premises or other clouds to Azure.
+
+ 📘 Topics:
+•	Azure VPN Gateway
+•	Azure ExpressRoute
+•	Azure Virtual WAN
+💡 Outcome: Understand site-to-site, point-to-site, and private dedicated connections — great for global architecture roles.
+
+----------------------------
+
 
 Microsoft Azure Cloud Concepts
 https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
