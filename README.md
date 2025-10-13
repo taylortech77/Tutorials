@@ -73,7 +73,9 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-po
 
 -------
 ***ADVANCED VIRTUAL MACHINE PROJECT - CYBERSECURITY***
+
 https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access
+
 -------
 ***ADVANCED DOCKER PROJECT CYBERSECURITY***
 Project Quickstart -Deploying a Docker container
