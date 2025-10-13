@@ -4,14 +4,21 @@
 
 Introduction to Microsoft Azure: Describe cloud concepts
 - ***START HERE***
-  
+
+  Thank you for beginning your journey into learning cloud. 94% of companies use 1 of 3 cloud platforms (Google Cloud, Microsoft Azure and Amazon Web Services). These tutorials are focused on learning Microsoft Azure.
+
+  this link below will help you spend an hour learning about the basics of the cloud and Azure.
 https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=aqc_azfun1_inproduct_azureportal
+
+---------------
+This is a bonus beginner friendly learning setup. It is not required to move forward but a great resource if you want to take your skills higher.
 
 Introduction to Microsoft Azure: Describe Azure architecture and services
 https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
 
 ------------
-There are 3 exercises/projects based on the recommended path below for Azure Networking. try to complete them all!!
+This section is focused on betworking within the cloud. This section does have exercises (projects) but you dont have to complete them. whats important is that you understand how Azure works.
+
 
 Azure networking documentation
 https://learn.microsoft.com/en-us/azure/networking/
@@ -50,12 +57,14 @@ Step 3 – Hybrid Connectivity
 💡 Outcome: Understand site-to-site, point-to-site, and private dedicated connections — great for global architecture roles.
 
 ----------------------------
-
+Additional documentation, not required!!
 
 Microsoft Azure Cloud Concepts
 https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
 
 ----------
+These are basic projects! You can advance these however youd like. As you work ***take screenshots*** for your portfolio later. 
+
 Project Quickstart: Create an Azure resource 
 https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/7-exercise-create-azure-resource?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services
 
@@ -66,16 +75,24 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-po
 ***ADVANCED VIRTUAL MACHINE PROJECT - CYBERSECURITY***
 https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access
 -------
-
+***ADVANCED DOCKER PROJECT CYBERSECURITY***
 Project Quickstart -Deploying a Docker container
 https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal?WT.mc_id=portaledu_inproduct_popularsolutions
 
+------------------
+***EXPERT LEVEL CYBERSECURITY PROJECT***
 Onboard for Microsoft Defender
 https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines
+
+------------------
+***ADVANCED PROJECTS FOR WEB APP CREATION***
 
 Project: Deploy a Node.js web app in Azure
  https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode
 
+--------
+
+****ADVANCED AI PROJECT***
 Project Tutorial: Train a model in Azure Machine Learning
 https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-train-model?view=azureml-api-2
 
