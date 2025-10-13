@@ -1,6 +1,6 @@
 # Tutorials, Projects and Guides
 
-last update 10/13/2026
+last update 10/13/2025
 
 Introduction to Microsoft Azure: Describe cloud concepts
 - ***START HERE***
@@ -102,5 +102,92 @@ https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-train-model?vi
 
 Microsoft Free services
 https://portal.azure.com/?Microsoft_Azure_Education_correlationId=013e6926-9784-44e6-90f4-e217963fb05f#view/Microsoft_Azure_Billing/FreeServicesBlade
+
+---------
+
+LEVEL 1: Cloud Basics
+Goal: Learn how Azure resources connect, deploy, and communicate securely.
+Duration: 2–3 hours total
+🧱 Project 1: Create an Azure Resource + VM
+What you’ll do:
+Create a new Resource Group.
+Create a Virtual Network (VNet) and Subnet.
+Deploy a Windows VM into that subnet.
+Connect using RDP.
+Skills learned: Resource groups, regions, networking, compute basics.
+Portfolio title: Deploying a Virtual Machine in Microsoft Azure
+Link to start:
+👉 Create a Windows virtual machine in Azure
+🌐 LEVEL 2: Networking Basics
+Goal: Understand how resources communicate within Azure and stay secure.
+Duration: 2–4 hours
+🛠 Project 2: Secure a Virtual Network
+What you’ll do:
+Create a new VNet and two subnets (frontend and backend).
+Add two VMs, one in each subnet.
+Create a Network Security Group (NSG) to block all inbound traffic except RDP.
+Test connectivity between the VMs (Ping test).
+Skills learned: Subnets, NSGs, IP addressing, private connectivity.
+Portfolio title: Building a Secure Network with Azure Virtual Network and NSGs
+Learning path:
+👉 Azure Networking Documentation – Virtual Network
+⚙️ LEVEL 3: Load Balancing & Redundancy
+Goal: Learn how to keep applications available and scale traffic.
+Duration: 3–4 hours
+⚖️ Project 3: Create a Load Balancer
+What you’ll do:
+Use your two frontend VMs from before.
+Add an Azure Load Balancer.
+Configure a backend pool and health probe.
+Test by visiting the Load Balancer’s public IP.
+Skills learned: High availability, Layer 4 load balancing, scaling.
+Portfolio title: Deploying a Load-Balanced Web Tier in Azure
+Tutorial:
+👉 Azure Load Balancer Quickstart
+🔒 LEVEL 4: Cloud Security Essentials
+Goal: Learn how to secure resources and monitor for threats.
+Duration: 2–3 hours
+🧩 Project 4: Onboard a VM to Microsoft Defender for Cloud
+What you’ll do:
+Use an existing VM.
+Turn on Microsoft Defender for Cloud.
+Connect the VM to a Log Analytics workspace.
+Review security alerts and recommendations.
+Skills learned: Threat monitoring, cloud security posture, compliance.
+Portfolio title: Enabling Microsoft Defender for Cloud for Virtual Machines
+Tutorial:
+👉 Onboard machines to Microsoft Defender for Cloud
+☁️ LEVEL 5: Web App Deployment
+Goal: Learn to host an app entirely in Azure.
+Duration: 2–3 hours
+🌍 Project 5: Deploy a Simple Web App
+What you’ll do:
+Deploy a Node.js or Python web app from the Azure Portal.
+Add a custom domain or test URL.
+Enable HTTPS for secure communication.
+Skills learned: App Services, scaling, certificates, PaaS basics.
+Portfolio title: Deploying a Secure Web Application in Azure App Service
+Tutorial:
+👉 Deploy a Node.js web app in Azure
+💡 LEVEL 6: AI + Data (Optional Bonus)
+Goal: Explore cloud-based AI in an easy way.
+Duration: 2–3 hours
+🧠 Project 6: Train a Simple Model in Azure Machine Learning
+What you’ll do:
+Use the Azure ML Studio interface.
+Train a basic dataset (classification).
+Visualize results in the web portal.
+Skills learned: AI basics, Azure ML environment, data visualization.
+Portfolio title: Training an AI Model in Azure Machine Learning Studio
+Tutorial:
+👉 Train a model in Azure Machine Learning
+🧾 Summary Table
+Level	Project	Focus	Type	Est. Time
+1	Create a VM	Compute	IaaS	1–2 hrs
+2	Secure VNet + NSG	Networking	IaaS	2–3 hrs
+3	Add Load Balancer	Availability	IaaS	2–4 hrs
+4	Defender for Cloud	Security	SaaS	2–3 hrs
+5	Deploy Web App	App Hosting	PaaS	2–3 hrs
+6	Train AI Model	AI + Data	PaaS	2–3 hrs
 
 
