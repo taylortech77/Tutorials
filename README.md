@@ -17,7 +17,7 @@ Introduction to Microsoft Azure: Describe Azure architecture and services
 https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
 
 ------------
-This section is focused on betworking within the cloud. This section does have exercises (projects) but you dont have to complete them. whats important is that you understand how Azure works.
+This section is focused on networking within the cloud. This section does have exercises (projects) but you dont have to complete them. whats important is that you understand how Azure works.
 
 
 Azure networking documentation
